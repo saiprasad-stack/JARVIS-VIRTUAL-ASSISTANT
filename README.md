@@ -23,14 +23,8 @@ JavaScript Jarvis is a simple voice-activated virtual assistant built using HTML
 
 ---
 ![giphy](https://github.com/user-attachments/assets/91af3ed3-b20d-45aa-a664-e2ef2b5a32d8)
-## 📂 Project Structure
-javascript_jarvis-main/
-├── index.html # Main HTML page
-├── style.css # Styling for UI
-├── app.js # Core JavaScript logic for voice interaction
-├── avatar.png # Avatar image
-├── giphy.gif # Animation or visual feedback
-└── README.md # Project documentation
+![image](https://github.com/user-attachments/assets/fa2a2890-a718-4b2f-a00b-19ec2debdb55)
+
 
 
 
